@@ -3,4 +3,4 @@ a fictional restaurant application I created with React.  Users can view dishes 
 
 The main focus for this application was styling and overall page design with smooth animations and good color combinations.
 
-Live Demo Link:
+Live Demo Link: https://akaina1-venezia-kitchen.netlify.app
